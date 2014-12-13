@@ -15,9 +15,9 @@ show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
-github_username:
-twitter_username:
+show_social_icons: 	false
+github_username:	titipata
+twitter_username:	
 google_plus_id:
 linkedin_username:
 bitcoin_url:
