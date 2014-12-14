@@ -4,7 +4,7 @@ email:       my.titipat@gmail.com
 author:      tuple team
 description: "Blog about technology, gadget, coding and a bit of travelling"
 baseurl:     ""
-url:         "http://titipata.github.io/" # change later
+url:         "http://tupleblog.github.io/" 
 
 # Google analytics
 google_analytics:
@@ -15,8 +15,8 @@ show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: 	false
-github_username:	titipata
+show_social_icons: 	true
+github_username:	tupleblog
 twitter_username:	
 google_plus_id:
 linkedin_username:
