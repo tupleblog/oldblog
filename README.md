@@ -1,4 +1,4 @@
-tuple.github.io
+tupleblog.github.io
 ===============
 
-Here is the [link](http://tuple.github.io/) to our blog
+Here is the [link](http://tupleblog.github.io/) to our blog
