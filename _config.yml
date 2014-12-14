@@ -1,8 +1,8 @@
 # Site settings
 title:       Tuple
-email:       my.titipat@gmail.com
+email:       tulakan.r@gmail.com 
 author:      tuple team
-description: "Blog about technology, gadget, coding and a bit of travelling"
+description: "Blog about technology, prgramming and a bit of music and travelling"
 baseurl:     ""
 url:         "http://tupleblog.github.io/" 
 
